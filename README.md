@@ -15,7 +15,7 @@ Verify the shapes
 print("Training data shape:", x_train.shape)
 print("Test data shape:", x_test.shape)
 
-# Task 1: Data Exploration and Preparation (2 Marks)
+# Task 1: Data Exploration and Preparation 
 Instructions:
 1. Display 5 sample images along with their corresponding labels after loading.
 2. Print the shape of the dataset and the count of unique labels.
@@ -24,7 +24,7 @@ Instructions:
 Expected Output:
 ● Sample images with labels.
 ● Dataset shape and label distribution.
-# Task 2: Build and Train a CNN Model (5 Marks)
+# Task 2: Build and Train a CNN Model 
 Instructions:
 1. Design a simple CNN model .
 o Example architecture:
@@ -37,7 +37,7 @@ Expected Output:
 ● CNN architecture summary.
 ● Training/validation loss and accuracy plots.
 ● Comment briefly on overfitting or underfitting based on the plots
-# Task 3: Evaluate the Model (2 Marks)
+# Task 3: Evaluate the Model 
 Instructions:
 1. Evaluate the model on the test set and calculate accuracy.
 2. Generate a confusion matrix and classification report.
@@ -45,7 +45,7 @@ Expected Output:
 ● Test set accuracy and classification report.
 ● Confusion matrix visualization.
 ● Examples of correctly and incorrectly classified images.
-# Task 4: Experimentation with Model Improvements (1 Marks)
+# Task 4: Experimentation with Model Improvements 
 Instructions:
 1. Introduce following techniques to improve model performance:
 o Experiment with different optimizers (e.g., SGD, RMSProp).
